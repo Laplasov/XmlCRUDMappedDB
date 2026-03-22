@@ -1,0 +1,11 @@
+C:\Users\Yandere312\Desktop\C#Space\Playground.EFCore\XmlCRUDMappedDB\bin\Debug\net10.0\XmlCRUDMappedDB.deps.json
+C:\Users\Yandere312\Desktop\C#Space\Playground.EFCore\XmlCRUDMappedDB\bin\Debug\net10.0\XmlCRUDMappedDB.dll
+C:\Users\Yandere312\Desktop\C#Space\Playground.EFCore\XmlCRUDMappedDB\bin\Debug\net10.0\XmlCRUDMappedDB.pdb
+C:\Users\Yandere312\Desktop\C#Space\Playground.EFCore\XmlCRUDMappedDB\obj\Debug\net10.0\XmlCRUDMappedDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yandere312\Desktop\C#Space\Playground.EFCore\XmlCRUDMappedDB\obj\Debug\net10.0\XmlCRUDMappedDB.AssemblyInfoInputs.cache
+C:\Users\Yandere312\Desktop\C#Space\Playground.EFCore\XmlCRUDMappedDB\obj\Debug\net10.0\XmlCRUDMappedDB.AssemblyInfo.cs
+C:\Users\Yandere312\Desktop\C#Space\Playground.EFCore\XmlCRUDMappedDB\obj\Debug\net10.0\XmlCRUDMappedDB.csproj.CoreCompileInputs.cache
+C:\Users\Yandere312\Desktop\C#Space\Playground.EFCore\XmlCRUDMappedDB\obj\Debug\net10.0\XmlCRUDMappedDB.dll
+C:\Users\Yandere312\Desktop\C#Space\Playground.EFCore\XmlCRUDMappedDB\obj\Debug\net10.0\refint\XmlCRUDMappedDB.dll
+C:\Users\Yandere312\Desktop\C#Space\Playground.EFCore\XmlCRUDMappedDB\obj\Debug\net10.0\XmlCRUDMappedDB.pdb
+C:\Users\Yandere312\Desktop\C#Space\Playground.EFCore\XmlCRUDMappedDB\obj\Debug\net10.0\ref\XmlCRUDMappedDB.dll
